@@ -1,24 +1,76 @@
-
-
-html,
 body {
-  height: 100%;
-  /* The html and body elements cannot have any padding or margin. */
+  padding-top: 120px;
+  background-image: url('../patterns/brickwall2.png');
+  background-repeat: repeat;
 }
 
-/* Wrapper for page content to push down footer */
-#wrap {
+h1{
+    line-height: 60px;
+    padding-bottom: 10px;
+}
+  
+
+.navbar-default {
+    background-color: #81BEF7;
+    border-color: #FF8000;
+    border-bottom-width: 10px;
+  }
+
+.navbar-default .navbar-nav > li > a {
+    color: #FFFFFF;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #FF8000;
+}
+
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #FF8000;
+    background-color: #FFFFFF\;
+}
+
+.navbar-fixed-top {
+    min-height: 110px;
+}
+
+.navbar-nav > li > a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 110px;
+}
+
+@media (max-width: 767px) {
+
+	.navbar-fixed-top {
+    min-height: 50px;
+}
+
+    .navbar-nav > li > a {
+    line-height: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;}
+}
+
+
+html {
+  position: relative;
   min-height: 100%;
-  height: auto !important;
-  height: 100%;
-  /* Negative indent footer by its height */
-  margin: 0 auto -60px;
-  /* Pad bottom by footer height */
-  padding: 0 0 60px;
 }
-
-/* Set the fixed height of the footer here */
-#footer {
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
   height: 60px;
   background-color: #FF8000;
 }
