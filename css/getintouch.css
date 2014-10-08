@@ -1,0 +1,77 @@
+body {
+  background-image: url('../patterns/ecailles2.png');
+  background-repeat: repeat;
+}
+html,body,.container
+{
+	height: 100%;
+}
+
+.row {
+	padding: 10px;
+}
+.box{
+	padding: 0px 5px 0px 5px;
+	height: 100%;
+}
+.innerBox{
+	height: 100%;
+	background-color: #81BEF7;
+	border: solid;
+	border-width: 2px;
+	border-color: #FF8000;
+	border-radius: 5px;
+	padding-left: 10px;
+}
+
+.title {
+	font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
+}
+
+#contactForm {
+	padding-left: 7px;
+}
+
+.contact {
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.col-md-11 {
+	padding-left: 45px;
+	padding-right: 25px;
+}
+
+.button {
+	color: #FF8000;
+	background-color: white;
+	border: solid;
+	border-radius: 5px;
+	border-width: 2px;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#but {
+	padding-left: 42px;
+}
+
+
+.form-control {
+	font-weight: 700;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+}
+
+
+#textarea {
+	height: 250px;
+	font-size: 15px;
+}
