@@ -64,13 +64,15 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 40px;
+  margin-bottom: 35px;
 }
 #footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 40px;
+  height: 35px;
   background-color: #81BEF7;
+  border-top-width: 2px;
+  border-color: #FF8000;
 }
