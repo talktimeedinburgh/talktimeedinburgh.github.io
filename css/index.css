@@ -67,14 +67,16 @@ body {
   margin-bottom: 35px;
 }
 #footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  /* Set the fixed height of the footer here */
-  height: 35px;
-  background-color: #81BEF7;
-  border-top: 2px solid #FF8000;
-  font-size: 10px;
-  padding: 12.5px;
-  color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 35px;
+    background-color: #81BEF7;
+    border-top: 2px solid #FF8000;
+    font-size: 15px;
+    padding: 5px;
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
 }
