@@ -5,12 +5,10 @@ body {
 }
 
 #logo {
-    height:100%;
-    margin-top: -10px;" 
+    max-height: 98px; 
+    margin-top: -10px;
 }
-#logoDiv {
-    height:100%;
-}
+
 
 h1{
     line-height: 60px;
