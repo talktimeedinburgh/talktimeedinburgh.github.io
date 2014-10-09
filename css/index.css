@@ -14,9 +14,7 @@ h1{
 }
   
 #nameText {
-    -webkit-text-stroke: 2px #81BEF7;
-    text-shadow: 0 0 8px #FF8000;
-    color: white;
+    color: #81BEF7;
     font-size: 38px;
 }
 
