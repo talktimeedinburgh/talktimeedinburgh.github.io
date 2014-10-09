@@ -4,6 +4,12 @@ body {
   background-repeat: repeat;
 }
 
+#logo {
+    height:100%;
+    margin-top: -10px;" 
+}
+
+
 h1{
     line-height: 60px;
     padding-bottom: 10px;
