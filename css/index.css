@@ -18,6 +18,12 @@ h1{
     font-size: 38px;
 }
 
+#feelings {
+    width:1100px;
+    height:400px;
+    background-color: red;
+}
+
 .navbar-default {
     background-color: #81BEF7;
     border-color: #FF8000;
