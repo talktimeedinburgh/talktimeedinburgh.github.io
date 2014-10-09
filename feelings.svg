@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="feelings.svg">
+   sodipodi:docname="feelings.svg"
+   inkscape:export-filename="/home/joseph/tte/talktimeedinburgh.github.io/feelings.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -43,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,7 +70,7 @@
        xml:space="preserve"
        id="flowRoot2993"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(1.5152288,724.78604)"><flowRegion
+       transform="translate(9.5964492,728.82665)"><flowRegion
          id="flowRegion2995"><rect
            id="rect2997"
            width="720"
@@ -75,5 +78,5 @@
            x="1.4285715"
            y="-1.4285716" /></flowRegion><flowPara
          id="flowPara2999"
-         style="font-size:35px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff8000;fill-opacity:1;font-family:Quicksand;-inkscape-font-specification:Quicksand Bold">If you ever feel...</flowPara></flowRoot>  </g>
+         style="font-size:35px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff8000;fill-opacity:1;font-family:Quicksand;-inkscape-font-specification:Quicksand">If you ever feel...</flowPara></flowRoot>  </g>
 </svg>
