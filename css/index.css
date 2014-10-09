@@ -15,6 +15,7 @@ h1{
   
 #nameText {
     -webkit-text-stroke: 1px #81BEF7;
+    font-size: 38px;
 }
 
 .navbar-default {
