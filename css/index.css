@@ -13,6 +13,9 @@ h1{
     font-size: 35px;
 }
   
+#nameText {
+    -webkit-text-stroke: 1px #81BEF7;
+}
 
 .navbar-default {
     background-color: #81BEF7;
