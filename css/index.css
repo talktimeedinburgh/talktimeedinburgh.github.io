@@ -9,7 +9,6 @@ body {
     margin-top: -10px;
 }
 
-
 h1{
     line-height: 60px;
     padding-bottom: 10px;
@@ -33,7 +32,7 @@ h1{
     background-color: #81BEF7;
     border-color: #FF8000;
     border-bottom-width: 10px;
-  }
+}
 
 .navbar-default .navbar-nav > li > a {
     color: #FFFFFF;
