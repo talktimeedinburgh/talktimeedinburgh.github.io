@@ -88,7 +88,12 @@ body,.container
 
 #sidebar a {
 	text-decoration: none;
-	color: #000099;
+	color: #00004B;
+}
+
+#sidebar a:hover {
+	text-decoration: none;
+	color: #FF8000;
 }
 
 .title {
