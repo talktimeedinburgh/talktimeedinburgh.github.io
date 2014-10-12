@@ -39,7 +39,14 @@ body,.container
 	padding-right: 10px;
 }
 
-.q {
+.qStart {
+	float: left;
+	font-size: 100px;
+	color: #FF8000;
+}
+
+.qEnd {
+	float: right;
 	font-size: 100px;
 	color: #FF8000;
 }
