@@ -30,6 +30,9 @@ body,.container
 	border-color: #FF8000;
 	border-radius: 5px;
 	padding-left: 10px;
+}
+
+#sidebar {
 	margin-bottom: 10px;
 }
 
