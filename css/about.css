@@ -47,7 +47,9 @@ body,.container
 	text-align: justify;
 }
 
-#gMap {
+#junctionLink {
+	text-decoration: none;
+	color: #FF8000;
 }
 
 .title {
