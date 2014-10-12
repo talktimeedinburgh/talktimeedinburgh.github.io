@@ -1,4 +1,47 @@
-body {
-  background-image: url('../patterns/small_steps.png');
-  background-repeat: repeat;
+body,.container
+{
+	height: 100%;
+}
+
+#wrap {
+	height: 100%;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.row {
+	padding: 10px;
+	height: 100%;
+}
+.box{
+	padding: 0px 5px 0px 5px;
+	height: 100%;
+}
+.innerBox{
+	height: 100%;
+	background-color: #81BEF7;
+	border: solid;
+	border-width: 2px;
+	border-color: #FF8000;
+	border-radius: 5px;
+	padding-left: 10px;
+}
+
+#sidebar {
+	margin-bottom: 10px;
+	color: white;
+    font-weight: 700;
+    font-size: 14px;
+    font-family: 'Quicksand', sans-serif;
+	text-align: justify;
+	padding-right: 10px;
+}
+
+.title {
+	font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
 }
