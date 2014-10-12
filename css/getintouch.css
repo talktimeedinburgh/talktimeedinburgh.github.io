@@ -17,7 +17,6 @@ body,.container
 .box{
 	padding: 0px 5px 0px 5px;
 	height: 100%;
-	position: absolute;
 }
 .innerBox{
 	height: 100%;
