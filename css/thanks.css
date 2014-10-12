@@ -1,0 +1,29 @@
+.navbar {
+	margin-bottom: 0px;
+}
+
+.box {
+	margin:auto;
+}
+
+.innerBox{
+	height: 245px;
+	background-color: #81BEF7;
+	border: solid;
+	border-width: 2px;
+	border-color: #FF8000;
+	border-radius: 5px;
+	color: white;
+    font-weight: 700;
+    font-size: 14px;
+    font-family: 'Quicksand', sans-serif;
+	text-align: justify;
+	padding: 0px 10px 10px 10px;
+}
+
+.title {
+	font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
+}
