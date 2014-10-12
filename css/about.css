@@ -26,7 +26,7 @@ body,.container
 	border-width: 2px;
 	border-color: #FF8000;
 	border-radius: 5px;
-	padding: 10px;
+	padding: 0px 10px 10px 10px;
 }
 
 #mapBox {
