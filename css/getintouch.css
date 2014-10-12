@@ -7,9 +7,10 @@ body,.container
 	height: 100%;
 }
 
-#main {
-	margin-top: 0px;
+.navbar {
+	margin-bottom: 0px;
 }
+
 .row {
 	padding: 10px;
 }
