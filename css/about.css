@@ -41,15 +41,15 @@ body,.container
 
 .qStart {
 	float: left;
-	font-size: 100px;
+	font-size: 50px;
 	color: #FF8000;
 	font-family: courier;
 }
 
 .qEnd {
-	font-family: tahoma;
+	font-family: courier;
 	float: right;
-	font-size: 100px;
+	font-size: 50px;
 	color: #FF8000;
 }
 
