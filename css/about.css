@@ -26,7 +26,11 @@ body,.container
 	border-width: 2px;
 	border-color: #FF8000;
 	border-radius: 5px;
-	padding-left: 10px;
+	padding: 10px;
+}
+
+#mapBox {
+
 }
 
 #sidebar {
