@@ -15,7 +15,7 @@ body,.container
 }
 
 .row {
-	padding: 10px 10px 0px 10px;
+	padding: 10px;
 	height: 100%;
 }
 .box{
@@ -30,7 +30,7 @@ body,.container
 	border-color: #FF8000;
 	border-radius: 5px;
 	padding-left: 10px;
-	padding-bottom: 10px;
+	margin-bottom: 5px;
 }
 
 .title {
