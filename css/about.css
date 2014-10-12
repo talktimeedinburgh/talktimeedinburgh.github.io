@@ -65,6 +65,7 @@ body,.container
 	font-size: 60px;
 	color: #FF8000;
 	margin-top: 60px;
+	margin-left: -20px;
 }
 
 #mapText {
