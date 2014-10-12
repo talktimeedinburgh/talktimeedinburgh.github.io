@@ -47,6 +47,10 @@ body,.container
 	text-align: justify;
 }
 
+#gMap {
+	border: 2px solid #FF8000;
+}
+
 .title {
 	font-family: 'Amatic SC', cursive;
     font-weight: 700;
