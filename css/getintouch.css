@@ -88,6 +88,9 @@ body,.container
     color: #505050;
 }
 
+input:-webkit-autofill {
+    color: #505050;
+}
 
 #textarea {
 	height: 255px;
