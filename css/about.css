@@ -94,6 +94,7 @@ body,.container
 #sidebar a:hover {
 	text-decoration: none;
 	color: #FF6600;
+	font-weight: 700;
 }
 
 .title {
