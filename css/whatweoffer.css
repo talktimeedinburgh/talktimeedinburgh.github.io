@@ -1,3 +1,7 @@
+.navbar {
+	margin-bottom: 0px;
+}
+
 .box{
 	padding: 0px 5px 0px 5px;
 	height: 250px;
@@ -7,3 +11,4 @@
 	border-color: #FF8000;
 	border-radius: 5px;
 }
+
