@@ -5,8 +5,7 @@
 .box{
     float: none;
     margin: 0 auto;
-    display: inline-block;
-    vertical-align: middle;
+    margin-top: 30px;
 }
 
 .innerBox{
