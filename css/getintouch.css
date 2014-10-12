@@ -34,6 +34,11 @@ body,.container
 
 #sidebar {
 	margin-bottom: 10px;
+	color: white;
+    font-weight: 700;
+    font-size: 10px;
+    font-family: 'Quicksand', sans-serif;
+	text-align: justify;
 }
 
 .title {
