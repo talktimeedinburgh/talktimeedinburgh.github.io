@@ -45,6 +45,7 @@ body,.container
 	color: #FF8000;
 	font-family: arial;
 	height: 80px;
+
 }
 
 #aim {
@@ -52,6 +53,7 @@ body,.container
     font-size: 20px;
     font-family: 'Quicksand', sans-serif;
 	text-align: center;
+	padding: 5px 10px 5px 10px;
 }
 
 .qEnd {
