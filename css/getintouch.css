@@ -39,6 +39,7 @@ body,.container
     font-size: 10px;
     font-family: 'Quicksand', sans-serif;
 	text-align: justify;
+	padding-right: 15px;
 }
 
 .title {
