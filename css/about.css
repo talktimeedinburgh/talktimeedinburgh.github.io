@@ -43,7 +43,8 @@ body,.container
 	float: left;
 	font-size: 50px;
 	color: #FF8000;
-	font-family: courier;
+	font-family: arial;
+	font-weight: bold;
 	margin-top: -20px;
 }
 
@@ -55,7 +56,7 @@ body,.container
 }
 
 .qEnd {
-	font-family: courier;
+	font-family: arial;
 	float: right;
 	font-size: 50px;
 	color: #FF8000;
