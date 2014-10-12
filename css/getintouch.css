@@ -16,6 +16,7 @@ body,.container
 
 .row {
 	padding: 10px;
+	height: 100%;
 }
 .box{
 	padding: 0px 5px 0px 5px;
@@ -79,7 +80,7 @@ body,.container
 
 
 #textarea {
-	height: 250px;
+	height: 255px;
 	font-size: 15px;
 }
 
