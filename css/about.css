@@ -43,9 +43,11 @@ body,.container
 	float: left;
 	font-size: 100px;
 	color: #FF8000;
+	font-family: courier;
 }
 
 .qEnd {
+	font-family: tahoma;
 	float: right;
 	font-size: 100px;
 	color: #FF8000;
