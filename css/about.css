@@ -82,6 +82,7 @@ body,.container
 
 #junctionLink {
 	text-decoration: none;
+	font-weight: bold;
 	color: #FF8000;
 }
 
