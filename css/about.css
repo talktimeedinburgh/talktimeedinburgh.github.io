@@ -46,6 +46,13 @@ body,.container
 	font-family: courier;
 }
 
+#aim {
+	font-weight: 700;
+    font-size: 25px;
+    font-family: 'Quicksand', sans-serif;
+	text-align: justify;
+}
+
 .qEnd {
 	font-family: courier;
 	float: right;
