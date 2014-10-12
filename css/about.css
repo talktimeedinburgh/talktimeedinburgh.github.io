@@ -49,13 +49,13 @@ body,.container
 }
 
 #aim {
-	width: 85%;
+	width: 89%;
 	display: inline-block;
 	font-weight: 700;
     font-size: 20px;
     font-family: 'Quicksand', sans-serif;
 	text-align: center;
-	padding: 5px 10px 5px 30px;
+	padding: 5px 10px 5px 10px;
 
 }
 
