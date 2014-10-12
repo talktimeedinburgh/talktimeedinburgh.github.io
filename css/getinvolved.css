@@ -1,27 +1,99 @@
 body {
-  background-image: url('../patterns/gplaypattern.png');
   background-repeat: repeat;
 }
-
-
-html {
-  position: relative;
-  min-height: 100%;
+body,.container
+{
+  height: 100%;
 }
-body {
-  /* Margin bottom by footer height */
-  margin-bottom: 35px;
+
+#wrap {
+  height: 100%;
 }
-#footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    /* Set the fixed height of the footer here */
-    height: 35px;
-    background-color: #81BEF7;
-    border-top: 2px solid #FF8000;
-    font-size: 15px;
-    padding: 5px;
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.row {
+  padding: 10px;
+  height: 100%;
+}
+.box{
+  padding: 0px 5px 0px 5px;
+  height: 100%;
+}
+.innerBox{
+  height: 100%;
+  background-color: #81BEF7;
+  border: solid;
+  border-width: 2px;
+  border-color: #FF8000;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+
+#sidebar {
+  margin-bottom: 10px;
+  color: white;
+    font-weight: 700;
+    font-size: 14px;
+    font-family: 'Quicksand', sans-serif;
+  text-align: justify;
+  padding-right: 10px;
+}
+
+.title {
+  font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
+}
+
+#contactForm {
+  padding-left: 7px;
+}
+
+.contact {
+    font-weight: 700;
+    font-size: 20px;
     color: white;
     font-family: 'Quicksand', sans-serif;
 }
+
+.col-md-11 {
+  padding-left: 45px;
+  padding-right: 25px;
+}
+
+.button {
+  color: #FF8000;
+  background-color: white;
+  border: solid;
+  border-radius: 5px;
+  border-width: 2px;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#but {
+  padding-left: 42px;
+}
+
+
+.form-control {
+  font-weight: 700;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    color: #505050;
+}
+
+input:-webkit-autofill {
+    color: #505050;
+}
+
+#textarea {
+  height: 250px;
+  font-size: 15px;
+}
+
