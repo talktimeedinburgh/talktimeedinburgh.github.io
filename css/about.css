@@ -86,6 +86,11 @@ body,.container
 	color: #FF8000;
 }
 
+#sidebar a {
+	text-decoration: none;
+	font-weight: bolder;
+	color: #FF8000;
+}
 
 .title {
 	font-family: 'Amatic SC', cursive;
