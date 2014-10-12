@@ -45,6 +45,7 @@ body,.container
 	color: #FF8000;
 	font-family: arial;
 	height: 100px;
+	padding-left: 10px;
 
 }
 
@@ -65,6 +66,7 @@ body,.container
 	float: right;
 	font-size: 60px;
 	color: #FF8000;
+	padding-right: 10px;
 }
 
 #mapText {
