@@ -44,15 +44,13 @@ body,.container
 	font-size: 50px;
 	color: #FF8000;
 	font-family: arial;
-	font-weight: bold;
-	margin-top: -20px;
 }
 
 #aim {
 	font-weight: 700;
     font-size: 20px;
     font-family: 'Quicksand', sans-serif;
-	text-align: left;
+	text-align: center;
 }
 
 .qEnd {
