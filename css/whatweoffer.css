@@ -3,12 +3,16 @@
 }
 
 .box{
-	padding: 0px 5px 0px 5px;
+	padding: 10px;
 	height: 250px;
 	background-color: #81BEF7;
 	border: solid;
 	border-width: 2px;
 	border-color: #FF8000;
 	border-radius: 5px;
+}
+
+#upper.box {
+	margin: 10px 5px 5px 10px;
 }
 
