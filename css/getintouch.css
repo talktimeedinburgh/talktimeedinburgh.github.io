@@ -2,12 +2,7 @@ body {
   background-image: url('../patterns/ecailles2.png');
   background-repeat: repeat;
 }
-html,body,.container
-{
-	height: 100%;
-}
-html {
-	min-height: 100%;
+
 }
 .row {
 	padding: 10px;
