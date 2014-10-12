@@ -29,10 +29,6 @@ body,.container
 	padding: 0px 10px 10px 10px;
 }
 
-#mapBox {
-
-}
-
 #sidebar {
 	margin-bottom: 10px;
 	color: white;
@@ -41,6 +37,14 @@ body,.container
     font-family: 'Quicksand', sans-serif;
 	text-align: justify;
 	padding-right: 10px;
+}
+
+#mapText {
+	color: white;
+    font-weight: 700;
+    font-size: 14px;
+    font-family: 'Quicksand', sans-serif;
+	text-align: justify;
 }
 
 .title {
