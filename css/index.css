@@ -88,9 +88,9 @@ h1{
 }
 
 #feelDiv {
-    width:100%;
+    width:800px;
     height: 450px;
-    background-image: url("feelings2.png");
+    background-image: url("../feelings2.png");
 }
 
 
