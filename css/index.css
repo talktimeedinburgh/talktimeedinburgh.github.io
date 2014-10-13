@@ -55,6 +55,7 @@ h1{
 
 .navbar {
     min-height: 110px;
+    margin-bottom: 0px;
 }
 
 .navbar-nav > li > a {
