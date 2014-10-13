@@ -87,6 +87,12 @@ h1{
     padding-bottom: 10px;}
 }
 
+#feelDiv {
+    width:100%;
+    height: 450px;
+    background-image: url("feelings2.png");
+}
+
 
 
 html {
