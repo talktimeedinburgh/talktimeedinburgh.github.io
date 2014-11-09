@@ -103,8 +103,10 @@ h1{
     height:60px;
     word-wrap: break-word;
     color:white;
-    font-size: 25px;
+    font-size: 18px;
 }
+
+.navbar-right
 
 html {
   position: relative;
