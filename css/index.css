@@ -27,6 +27,10 @@ h1{
     margin: auto;
     width: 100%;
 }
+#birds {
+    background: url('../birds.png');
+    height:100px;
+}
 
 .navbar-default {
     background-color: #81BEF7;
