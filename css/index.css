@@ -22,7 +22,9 @@ h1{
     color: #81BEF7;
     font-size: 38px;
 }
-
+#lineTwo {
+    font-size: 20px;
+}
 #feelings {
     margin: auto;
     width: 100%;
