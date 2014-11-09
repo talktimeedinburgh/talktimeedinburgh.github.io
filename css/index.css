@@ -96,13 +96,14 @@ h1{
 }
 
 #hideButton {
-    top:50%;
+    top:100px;
     background-color: #FF8000;
-    width:15px;
+    width:30px;
+    padding: 10px;
     height:60px;
     word-wrap: break-word;
     color:white;
-    font-size: 15px;
+    font-size: 25px;
 }
 
 html {
