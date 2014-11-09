@@ -111,7 +111,7 @@ h1{
 }
 
 .navbar-right {
-    position: absolute;
+    position: fixed;
 }
 
 html {
