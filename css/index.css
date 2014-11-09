@@ -29,7 +29,9 @@ h1{
 }
 #birds {
     background: url('../birds.png');
-    height:100px;
+    background-size: 100%;
+    margin-top: 30px;
+    height:130px;
 }
 
 .navbar-default {
