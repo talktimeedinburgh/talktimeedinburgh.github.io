@@ -95,7 +95,8 @@ input:-webkit-autofill {
 	font-size: 15px;
 }
 @media (max-width: 990px) {
-#wrap > div.container > div > div.col-md-8.box {
+#wrap > div.container > div > div.col-md-7.box {
 	margin-top:10px;
 }
 }
+
