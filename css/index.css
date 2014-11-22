@@ -33,12 +33,13 @@ padding-top: 30px;
 #feelings {
     width:100%;
     height: 300px;
-    background-image: url("../feelings3.png");
-    background-size:100% auto;
 }
 #feel, #help {
     font-family: 'Permanent Marker', cursive;
-    font-size:20px;
+    font-size:30px;
 }
 
+#help {
+    text-align: right;
+}
 
