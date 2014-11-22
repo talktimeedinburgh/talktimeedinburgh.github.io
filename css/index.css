@@ -157,7 +157,6 @@ body {
 }
 
  ul.nav li.active a{
-    color:red;
-    background: transparent;
+    color:#2F2F2F !important;
+    background-color: transparent!important;
  } 
- 
