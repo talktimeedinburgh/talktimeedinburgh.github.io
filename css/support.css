@@ -6,4 +6,11 @@
 	border-color: #FF8000;
 	border-radius: 5px;
 	padding: 0px 10px 10px 10px;
+	margin-top: 10px;
+}
+.title {
+	font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
 }
