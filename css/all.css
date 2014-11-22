@@ -49,7 +49,12 @@ body {
 
 	.navbar {
     min-height: 50px;
-}
+}    
+	
+	#hideButton {
+		display:none;
+	}
+	
 
     .navbar-nav > li > a {
     line-height: 20px;
