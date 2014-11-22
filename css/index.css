@@ -18,10 +18,7 @@ h1{
     font-size: 35px;
 }
  
- ul.nav li.active {
-    color:red;
-    background: transparent;
- } 
+
 
 #nameText {
     color: #81BEF7;
@@ -158,3 +155,8 @@ body {
     color: white;
     font-family: 'Quicksand', sans-serif;
 }
+
+ ul.nav li.active {
+    color:red;
+    background: transparent;
+ } 
