@@ -18,8 +18,9 @@ h1{
     font-size: 35px;
 }
  
- ul.nav li a:active {
+ ul.nav li.active {
     color:red;
+    background: transparent;
  } 
 
 #nameText {
