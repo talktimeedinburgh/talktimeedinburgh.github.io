@@ -15,6 +15,14 @@
     color: white;
 }
 table {
-	width:300px;
+	width:350px;
 	text-align: center;
+	margin:0 auto;
+}
+tr {
+	padding:8px;
+}
+.label {
+	font-size: 18px;
+	border-bottom: 1px solid white;
 }
