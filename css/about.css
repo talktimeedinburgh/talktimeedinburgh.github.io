@@ -104,3 +104,8 @@ body,.container
 		margin-top: -35px;
 	}
 }
+@media (max-width: 990px) {
+	#wrap > div.container > div > div.col-md-4.box {
+		margin-top:10px;
+	}
+}
