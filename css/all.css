@@ -76,7 +76,9 @@ ul.nav li.active a{
 ul.nav li.active a:hover{
     color:#FF8000!important;
 }
-
+.icon-bar {
+    background-color: #FF8000;
+}
 /*HIDE*/
 #hideButton {
     position: fixed;
