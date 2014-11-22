@@ -78,6 +78,9 @@ body,.container
     font-family: 'Quicksand', sans-serif;
 	text-align: justify;
 }
+#map_canvas {
+	margin:0 auto;
+}
 
 #junctionLink {
 	text-decoration: none;
