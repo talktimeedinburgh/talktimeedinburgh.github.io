@@ -81,15 +81,6 @@ body,.container
 	margin:0 auto;
 }
 
-#junctionLink {
-	text-decoration: none;
-	color: #00004B;
-}
-
-#junctionLink:hover{
-	text-decoration: none;
-	color: #FF6600;
-}
 
 .title {
 	font-family: 'Amatic SC', cursive;
