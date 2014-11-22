@@ -105,7 +105,7 @@ body,.container
 	}
 }
 @media (max-width: 990px) {
-	#wrap > div.container > div > div.col-md-4.box {
-		margin-top:10px;
+	.innerBox {
+		margin-bottom:10px;
 	}
 }
