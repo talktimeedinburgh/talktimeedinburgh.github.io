@@ -17,7 +17,11 @@ h1{
     font-weight: 700;
     font-size: 35px;
 }
-  
+ 
+ ul.nav li a:active {
+    color:red;
+ } 
+
 #nameText {
     color: #81BEF7;
     font-size: 38px;
