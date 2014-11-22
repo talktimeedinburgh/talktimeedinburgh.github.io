@@ -143,4 +143,6 @@ body {
     color: white;
     font-family: 'Quicksand', sans-serif;
 }
-
+#footer > div {
+    background-color: #81BEF7;
+}
