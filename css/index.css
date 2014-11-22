@@ -21,10 +21,7 @@ h1{
     width: 100%;
 }
 #birds {
-    background: url('../birds.png');
-    background-size: 100%;
-    margin-top: 30px;
-    height:130px;
+
 }
 
 
