@@ -28,3 +28,9 @@
 #lower {
 	margin-bottom: 10px;
 }
+
+@media (max-width: 990px) {
+.innerBox {
+height: 100%;
+}
+}
