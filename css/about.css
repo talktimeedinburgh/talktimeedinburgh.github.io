@@ -92,16 +92,6 @@ body,.container
 	color: #FF6600;
 }
 
-#sidebar a {
-	text-decoration: none;
-	color: #00004B;
-}
-
-#sidebar a:hover {
-	text-decoration: none;
-	color: #FF6600;
-}
-
 .title {
 	font-family: 'Amatic SC', cursive;
     font-weight: 700;
