@@ -104,7 +104,7 @@ ul.nav li.active a:hover{
     top:30%;
     right: 0;
     background-color: #FF8000;
-    width:30px;
+    width:35px;
     padding: 10px;
     height:115px;
     word-wrap: break-word;
@@ -114,11 +114,12 @@ ul.nav li.active a:hover{
     line-height: 1.18;
     border-radius: 10px 0px 0px 10px;
     z-index:1000;
+    border: 2px solid #808080;
 }
 #hideButton a {
     display: block;
     height: 115px;
-    width: 40px;
+    width: 39px;
     padding: 10px 15px 10px 10px;
     margin:-10px 0px 0px -10px;
     color:white;
