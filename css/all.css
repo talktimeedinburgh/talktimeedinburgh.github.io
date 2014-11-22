@@ -96,7 +96,7 @@ ul.nav li.active a:hover{
 #hideButton a {
     display: block;
     height: 115px;
-    width: 30px;
+    width: 40px;
     padding: 10px 15px 10px 10px;
     margin:-10px 0px 0px -10px;
     color:white;
@@ -104,6 +104,11 @@ ul.nav li.active a:hover{
 }
 #hideButton a:hover {
     font-weight: bold;
+}
+
+/*MAIN*/
+p {
+	color:#323232;
 }
 
 /*FOOTER*/
