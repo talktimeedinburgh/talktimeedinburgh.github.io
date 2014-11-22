@@ -161,5 +161,5 @@ ul.nav li.active a{
     background-color: transparent!important;
  } 
 ul.nav li.active a:hover{
-    color:#FF8000;
+    color:#FF8000!important;
 }
