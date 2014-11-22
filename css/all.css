@@ -131,6 +131,8 @@ ul.nav li.active a:hover{
 /*MAIN*/
 p {
 	color:#323232;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
 	font-size: 16px;
 }
 p a {
