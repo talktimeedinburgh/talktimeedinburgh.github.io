@@ -1,20 +1,20 @@
 h1{
     line-height: 60px;
-    padding-bottom: 10px;
+    padding: 10px 0px;
     color:#FF8000;
     font-family: 'Londrina Solid', cursive;
     font-weight: 700;
-    font-size: 35px;
+    font-size: 50px;
 }
  
 
 
 #nameText {
     color: #81BEF7;
-    font-size: 38px;
+    font-size: 55px;
 }
 #lineTwo {
-    font-size: 20px;
+    font-size: 29px;
 }
 #feelings {
     margin: auto;
