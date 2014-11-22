@@ -163,3 +163,13 @@ body {
 #footer > div {
     background-color: #81BEF7;
 }
+@media (max-width: 750px) {
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 50px;
+}
+#footer {
+    /* Set the fixed height of the footer here */
+    height: 50px;
+}
+}
