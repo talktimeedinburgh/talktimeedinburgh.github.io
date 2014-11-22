@@ -98,6 +98,9 @@ body,.container
     color: white;
 }
 
+#gMap {
+	margin:0 auto;
+}
 
 @media (max-width: 685px) {
 	.qEnd {
