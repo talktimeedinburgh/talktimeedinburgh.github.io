@@ -77,7 +77,7 @@ ul.nav li.active a:hover{
     color:#FF8000!important;
 }
 .icon-bar {
-    background-color: #FF8000;
+    background-color: #FF8000!important;
 }
 /*HIDE*/
 #hideButton {
