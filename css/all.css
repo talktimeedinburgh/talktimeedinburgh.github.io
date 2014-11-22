@@ -75,7 +75,9 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;}
 }
-
+	#logo {
+		max-height: 45px;
+	}
 ul.nav li.active a{
     color:#828282 !important;
     background-color: transparent!important;
