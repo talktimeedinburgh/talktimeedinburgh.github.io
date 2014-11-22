@@ -76,8 +76,8 @@ body {
     padding-bottom: 10px;}
 }
 #logo {
-    max-height: 45px; 
-    margin-top: -5px;
+    max-height: 50px; 
+    margin-top: -15px;
 }
 ul.nav li.active a{
     color:#828282 !important;
