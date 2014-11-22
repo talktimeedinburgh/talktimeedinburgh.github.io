@@ -114,6 +114,7 @@ p {
 p a {
 	color:#F8F8F8;
 	text-decoration: none;
+	font-weight: bold;
 }
 p a:hover {
 	text-decoration: none;
