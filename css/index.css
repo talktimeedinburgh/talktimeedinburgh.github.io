@@ -16,10 +16,7 @@ h1{
 #lineTwo {
     font-size: 29px;
 }
-#feelings {
-    margin: auto;
-    width: 100%;
-}
+
 #birds {
 width:450px;
 padding-top: 30px;
@@ -30,9 +27,10 @@ padding-top: 30px;
 }
 }
 
-#feelings {
-    width:100%;
-    height: 300px;
+#feels {
+    height: 250px;
+    display: block;
+    margin: auto;
 }
 #feel, #help {
     font-family: 'Permanent Marker', cursive;
