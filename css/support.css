@@ -25,6 +25,6 @@ tr {
 	padding:8px;
 }
 .tableTitle {
-	font-size: 18px;
-	border-bottom: 1px solid white;
+	font-size: 17px;
+	padding-bottom: 5px;
 }
