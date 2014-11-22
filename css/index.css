@@ -43,9 +43,10 @@ h1 {
 }
 
 #feels {
-    height: 240px;
+    max-height: 240px;
     display: block;
     margin: auto;
+    max-width: 100%;
 }
 #feel, #help {
     font-family: 'Permanent Marker', cursive;
