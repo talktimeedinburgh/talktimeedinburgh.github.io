@@ -24,7 +24,10 @@ h1{
 width:450px;
 padding-top: 30px;
 }
-
+@media (max-width: 990px) {
+#birds {
+    display: none;
+}
 
 
 #feelDiv {
