@@ -112,7 +112,12 @@ p {
 	font-size: 16px;
 }
 p a {
-	color:#FF8000;
+	color:#F8F8F8;
+	text-decoration: none;
+}
+p a:hover {
+	text-decoration: none;
+	color: #FF8000;
 }
 
 /*FOOTER*/
