@@ -111,6 +111,9 @@ p {
 	color:#323232;
 	font-size: 16px;
 }
+p a {
+	color:#FF8000;
+}
 
 /*FOOTER*/
 html {
