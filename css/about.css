@@ -97,3 +97,10 @@ body,.container
     font-size: 45px;
     color: white;
 }
+
+
+@media (max-width: 685px) {
+	.qEnd {
+		margin-top: -35px;
+	}
+}
