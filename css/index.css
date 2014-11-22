@@ -26,19 +26,19 @@ padding-top: 30px;
     display: none;
 }
 }
-@media (max-width: 1100px) {
+@media (max-width: 1200px) {
 #birds {
     width:380px;
 }
 h1 {
-    font-size: 45px;
+    font-size: 40px;
     line-height: 50px;
 }
 #nameText {
-    font-size: 50px;
+    font-size: 45px;
 }
 #lineTwo {
-    font-size: 24px;
+    font-size: 22px;
 }
 }
 
