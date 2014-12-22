@@ -30,3 +30,6 @@
     color: white;
     text-align: center;
 }
+.innerBox p {
+	text-align: center;
+}
