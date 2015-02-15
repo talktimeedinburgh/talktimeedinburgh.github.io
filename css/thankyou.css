@@ -1,0 +1,37 @@
+.innerBox{
+	height: 100%;
+	background-color: #81BEF7;
+	border: solid;
+	border-width: 2px;
+	border-color: #FF8000;
+	border-radius: 5px;
+	padding: 0px 10px 10px 10px;
+	margin: 10px 0;
+}
+
+.title {
+	font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
+}
+
+.thank-name {
+  text-align:center;
+}
+
+.thank-bubble {
+  border-radius: 50%;
+  height: 100%;
+	background-color: #81BEF7;
+	border: solid;
+	border-width: 2px;
+	border-color: #FF8000;
+	padding: 0px 10px 10px 10px;
+	margin: 10px 0;
+}
+
+.thank-donation {
+  text-align:center;
+  font-size: 32px;
+}
