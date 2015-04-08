@@ -1,3 +1,7 @@
+.row {
+  margin: 10px;
+}
+
 .innerBox{
 	height: 100%;
 	background-color: #81BEF7;
@@ -30,11 +34,16 @@
 	border-width: 2px;
 	border-color: #FF8000;
 	padding: 10px;
-	margin: 10px;
 	width: 150px;
-  height: 150px;
+  height: 170px;
+  min-width: 170px;
   display: table-cell;
   vertical-align: middle;  
+}
+
+.circle {
+  margin: 15px;
+  float: left;
 }
 
 .thank-name {
