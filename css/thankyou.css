@@ -35,19 +35,15 @@
 	border-color: #FF8000;
 	padding: 10px;
 	width: 150px;
-  height: 150px;
+  height: 170px;
+  min-width: 170px;
   display: table-cell;
   vertical-align: middle;  
 }
 
 .circle {
-  margin: 5px;
+  margin: 15px;
   float: left;
-}
-
-.big {
-	min-width: 170px;
-  height: 170px; 
 }
 
 .thank-name {
