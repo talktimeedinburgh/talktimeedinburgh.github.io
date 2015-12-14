@@ -6,20 +6,36 @@ h1{
     font-weight: 400;
     font-size: 50px;
 }
+#lineTwo {
+    font-size: 29px;
+    line-height: 30px;
+    padding: 10px 0px;
+    color:#FF8000;
+    font-family: 'Londrina Solid', cursive;
+    font-weight: 400;
+}
+
+.main {
+  width: 60%;
+}
  
+.main-video {
+  width: 40%;
+}
 
 
 #nameText {
     color: #81BEF7;
-    font-size: 55px;
-}
-#lineTwo {
-    font-size: 29px;
+    font-size: 50px;
 }
 
+#birdsDiv {
+  z-index:-99999;
+}  
+
 #birds {
-width:450px;
-padding-top: 30px;
+  width:450px;
+  padding-top: 30px;
 }
 @media (max-width: 990px) {
 #birds {
@@ -35,7 +51,7 @@ h1 {
     line-height: 50px;
 }
 #nameText {
-    font-size: 45px;
+    font-size: 42px;
 }
 #lineTwo {
     font-size: 22px;
