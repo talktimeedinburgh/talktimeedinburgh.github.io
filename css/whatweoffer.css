@@ -7,7 +7,7 @@
 }
 
 .innerBox{
-	height: 360px;
+	height: 280px;
 	background-color: #81BEF7;
 	border: solid;
 	border-width: 2px;
@@ -19,6 +19,10 @@
 	padding: 0px 10px 10px 10px;
 }
 
+.topBox {
+  height: 380px;
+}
+  
 .title {
 	font-family: 'Amatic SC', cursive;
     font-weight: 700;
