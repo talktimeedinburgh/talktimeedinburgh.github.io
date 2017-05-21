@@ -14,6 +14,14 @@ h1{
     font-family: 'Londrina Solid', cursive;
     font-weight: 400;
 }
+#lineThree {
+    font-size: 22px;
+    line-height: 30px;
+    padding: 10px 0px;
+    color:black;
+    font-family: 'Londrina Solid', cursive;
+    font-weight: 400;
+}
 
 .main {
   width: 60%;
@@ -37,6 +45,13 @@ h1{
   width:450px;
   padding-top: 30px;
 }
+
+#birdsSmall {
+  width:350px;
+  padding-top: 70px;
+  float: right;
+}
+
 @media (max-width: 990px) {
 #birds {
     display: none;
@@ -65,7 +80,8 @@ h1 {
     max-width: 100%;
 }
 #feel, #help, #rainbow {
-    font-family: 'Permanent Marker', cursive;
+    /*font-family: 'Permanent Marker', cursive; */
+    font-family: 'Londrina Solid', cursive;
     font-size:30px;
 }
 #rainbow {
@@ -75,4 +91,6 @@ h1 {
     float:right;
     text-align: right;
 }
-
+#donate{
+    float:right;
+}
