@@ -41,7 +41,7 @@ body,.container
 }
 
 .qStart {
-	float: left;
+	/* float: left; */
 	font-size: 60px;
 	color: #FF8000;
 	font-family: arial;
@@ -62,7 +62,7 @@ body,.container
 
 .qEnd {
 	font-family: arial;
-	float: right;
+	/* float: right; */
 	font-size: 60px;
 	color: #FF8000;
 	padding-right: 10px;
