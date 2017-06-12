@@ -18,7 +18,7 @@ h1{
     font-size: 22px;
     line-height: 30px;
     padding: 10px 0px;
-    color:black;
+    color:red;
     font-family: 'Londrina Solid', cursive;
     font-weight: 400;
 }
@@ -84,6 +84,7 @@ h1 {
     font-family: 'Londrina Solid', cursive;
     font-size:30px;
 }
+  
 #rainbow {
     float:left;
 }
@@ -92,5 +93,5 @@ h1 {
     text-align: right;
 }
 #donate{
-    float:right;
+    margin:0px 5px 5px 5px;
 }
