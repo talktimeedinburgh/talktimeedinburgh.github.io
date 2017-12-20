@@ -1,0 +1,40 @@
+.navbar {
+	margin-bottom: 0px;
+}
+
+.box {
+	padding: 10px 5px 0px 5px;
+}
+
+.innerBox{
+	height: 280px;
+	background-color: #81BEF7;
+	border: solid;
+	border-width: 2px;
+	border-color: #FF8000;
+	border-radius: 5px;
+    font-weight: 700;
+    font-family: 'Quicksand', sans-serif;
+	text-align: left;
+	padding: 0px 10px 10px 10px;
+}
+
+.topBox {
+  height: 380px;
+}
+  
+.title {
+	font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
+}
+#lower {
+	margin-bottom: 10px;
+}
+
+@media (max-width: 990px) {
+.innerBox {
+height: 100%;
+}
+}

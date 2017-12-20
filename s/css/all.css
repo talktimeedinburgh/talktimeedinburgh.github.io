@@ -1,0 +1,183 @@
+body {
+  background-image: url('../patterns/brickwall.png');
+  background-repeat: repeat;
+}
+
+#logo {
+    max-height: 98px; 
+    margin-top: -10px;
+}
+
+/*NAVBAR*/
+.navbar-default {
+    background-color: #81BEF7;
+    border-color: #FF8000;
+    border-bottom-width: 10px;
+  }
+
+.navbar-default .navbar-nav > li > a {
+    color: #FFFFFF;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #FF8000;
+}
+
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #FF8000;
+    background-color: #FFFFFF\;
+}
+
+.navbar {
+    min-height: 110px;
+    margin-bottom: 0px;
+}
+
+.navbar-nav > li > a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 110px;
+}
+
+@media (max-width: 767px) {
+
+	.navbar {
+    min-height: 50px;
+}    
+	
+	#hideButton {
+		display:none;
+	}
+	
+
+    .navbar-nav > li > a {
+    line-height: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;}
+}
+@media (max-width: 990px) {
+.navbar-default .navbar-nav > li > a {
+    color: #FFFFFF;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 30px;
+}
+}
+@media (max-width: 990px) {
+
+    .navbar {
+    min-height: 50px;
+	}
+
+    .navbar-nav > li > a {
+    line-height: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;}
+    #logo {
+    max-height: 50px; 
+    margin-top: -15px;
+	}
+	ul.nav {
+		margin-top: 5px;
+	}
+}
+
+ul.nav li.active a{
+    color:#525252 !important;
+    background-color: transparent!important;
+ } 
+ul.nav li.active a:hover{
+    color:#FF8000!important;
+}
+.icon-bar {
+    background-color: #FF8000!important;
+}
+/*HIDE*/
+#hideButton {
+    position: fixed;
+    top:30%;
+    right: 0;
+    background-color: #FF8000;
+    width:35px;
+    padding: 10px;
+    height:115px;
+    word-wrap: break-word;
+    color:white;
+    font-size: 21px;
+    text-align: center;
+    line-height: 1.18;
+    border-radius: 10px 0px 0px 10px;
+    z-index:1000;
+    border: 2px solid #808080;
+}
+#hideButton a {
+    display: block;
+    height: 115px;
+    width: 39px;
+    padding: 10px 15px 10px 10px;
+    margin:-10px 0px 0px -10px;
+    color:white;
+    text-decoration: none;
+}
+#hideButton a:hover {
+    font-weight: bold;
+}
+
+/*MAIN*/
+p {
+	color:#323232;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+	font-size: 16px;
+}
+p a {
+	color:#F8F8F8;
+	text-decoration: none;
+	font-weight: bold;
+}
+p a:hover {
+	text-decoration: none;
+	color: #ED5F00;
+}
+
+/*FOOTER*/
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 35px;
+}
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 35px;
+    background-color: #81BEF7;
+    border-top: 2px solid #FF8000;
+    font-size: 15px;
+    padding: 5px;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+#footer > div {
+    background-color: #81BEF7;
+}
+@media (max-width: 750px) {
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 50px;
+}
+#footer {
+    /* Set the fixed height of the footer here */
+    height: 50px;
+}
+}

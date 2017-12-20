@@ -1,0 +1,105 @@
+body,.container
+{
+	height: 100%;
+}
+
+#wrap {
+	height: 100%;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.row {
+	padding: 10px;
+	height: 100%;
+	padding-bottom: 0px;
+}
+.box{
+	padding: 0px 5px 0px 5px;
+	height: 100%;
+}
+.innerBox{
+	height: 100%;
+	background-color: #81BEF7;
+	border: solid;
+	border-width: 2px;
+	border-color: #FF8000;
+	border-radius: 5px;
+	padding: 0px 10px 10px 10px;
+}
+
+#sidebar {
+	color: white;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+	text-align: justify;
+	padding-right: 10px;
+	padding-bottom: 20px;
+}
+
+.qStart {
+	/* float: left; */
+	font-size: 60px;
+	color: #FF8000;
+	font-family: arial;
+	height: 100px;
+	padding-left: 10px;
+
+}
+
+#aim {
+	width: 87%;
+	display: inline-block;
+	font-weight: 700;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+	text-align: center;
+	padding: 5px 10px 5px 20px;
+}
+
+.qEnd {
+	font-family: arial;
+	/* float: right; */
+	font-size: 60px;
+	color: #FF8000;
+	padding-right: 10px;
+	margin-top: 55px;
+	height:30px;
+}
+
+#mapText {
+	color: white;
+    font-weight: 700;
+    font-size: 14px;
+    font-family: 'Quicksand', sans-serif;
+	text-align: justify;
+}
+#map_canvas {
+	margin:0 auto;
+}
+
+
+.title {
+	font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
+}
+
+#gMap {
+	margin:0 auto;
+}
+
+@media (max-width: 685px) {
+	.qEnd {
+		margin-top: -35px;
+	}
+}
+@media (max-width: 990px) {
+	.innerBox {
+		margin-bottom:10px;
+	}
+}

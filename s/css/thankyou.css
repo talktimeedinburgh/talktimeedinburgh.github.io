@@ -1,0 +1,56 @@
+.row {
+  margin: 10px;
+}
+
+.innerBox{
+	height: 100%;
+	background-color: #81BEF7;
+	border: solid;
+	border-width: 2px;
+	border-color: #FF8000;
+	border-radius: 5px;
+	padding: 10px 10px 30px 30px;
+	margin: 10px;
+	
+}
+
+.title {
+	font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
+}
+
+.thank-name {
+  text-align:center;
+  margin: 2px;
+}
+
+.thank-bubble {
+  border-radius: 50%;
+  height: 100%;
+	background-color: #81BEF7;
+	border: solid;
+	border-width: 2px;
+	border-color: #FF8000;
+	padding: 10px;
+	width: 150px;
+  height: 170px;
+  min-width: 170px;
+  display: table-cell;
+  vertical-align: middle;  
+}
+
+.circle {
+  margin: 15px;
+  float: left;
+}
+
+.thank-name {
+  text-align:center;
+}
+
+.thank-donation {
+  text-align:center;
+  color: white;
+}

@@ -1,0 +1,97 @@
+h1{
+    line-height: 60px;
+    padding: 10px 0px;
+    color:#FF8000;
+    font-family: 'Londrina Solid', cursive;
+    font-weight: 400;
+    font-size: 50px;
+}
+#lineTwo {
+    font-size: 29px;
+    line-height: 30px;
+    padding: 10px 0px;
+    color:#FF8000;
+    font-family: 'Londrina Solid', cursive;
+    font-weight: 400;
+}
+#lineThree {
+    font-size: 22px;
+    line-height: 30px;
+    padding: 10px 0px;
+    color:red;
+    font-family: 'Londrina Solid', cursive;
+    font-weight: 400;
+}
+
+.main {
+  width: 60%;
+}
+ 
+.main-video {
+  width: 40%;
+}
+
+
+#nameText {
+    color: #81BEF7;
+    font-size: 50px;
+}
+
+#birdsDiv {
+  z-index:-99999;
+}  
+
+#birds {
+  width:450px;
+  padding-top: 30px;
+}
+
+#birdsSmall {
+  width:350px;
+  padding-top: 70px;
+  float: right;
+}
+
+@media (max-width: 990px) {
+#birds {
+    display: none;
+}
+}
+@media (max-width: 1200px) {
+#birds {
+    width:380px;
+}
+h1 {
+    font-size: 40px;
+    line-height: 50px;
+}
+#nameText {
+    font-size: 42px;
+}
+#lineTwo {
+    font-size: 22px;
+}
+}
+
+#feels {
+    max-height: 240px;
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+#feel, #help, #rainbow {
+    /*font-family: 'Permanent Marker', cursive; */
+    font-family: 'Londrina Solid', cursive;
+    font-size:30px;
+}
+  
+#rainbow {
+    float:left;
+}
+#help {
+    float:right;
+    text-align: right;
+}
+#donate{
+    margin:0px 5px 5px 5px;
+}
